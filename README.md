@@ -17,7 +17,7 @@
 
 ## Avaiilable on Telegram as [@darkjarviprobot](https://t.me/darkjarvisprobot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkking007-bit/JARVIS.git)
 
 <img src="https://telegra.ph/file/9e4d458a7a1ae7b1f1dc7.jpg">
 
