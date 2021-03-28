@@ -14,7 +14,7 @@
 </p>
 
 ### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
-## https://daisyproject.studio
+
 ## Avaiilable on Telegram as [@darkjarviprobot](https://t.me/darkjarvisprobot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
