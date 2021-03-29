@@ -56,4 +56,4 @@ jarvisjarvispp
 - For you..
 
 And as always thanks to AioGram devs, Dan for pyrogram, lonami for telethon and Durov for telegram
-Special thanks to you for using bot
+Special thanks to you for using bot.
